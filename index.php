@@ -5,6 +5,8 @@ $job_boards = array(
     'jobs.ashbyhq.com',
     'jobs.jobvite.com',
     'myworkdayjobs.com',
+    'careers.jobscore.com',
+    'ats.comparably.com',
 );
 
 $timeframes = array(
