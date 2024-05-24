@@ -16,10 +16,6 @@ $timeframes = array(
     'year'  => 'Year',
 );
 
-
-
-// 'https://www.google.com/search?q=site:jobs.lever.co+wordpress&tbs=qdr:w';
-
 function get_timeframe() {
     global $timeframes;
     $timeframe = 'week';
