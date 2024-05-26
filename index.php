@@ -4,6 +4,8 @@ $job_boards = array(
     'boards.greenhouse.io',
     'jobs.ashbyhq.com',
     'jobs.jobvite.com',
+    'jobs.smartrecruiters.com',
+    'jobs.workable.com',
     'myworkdayjobs.com',
     'careers.jobscore.com',
     'ats.comparably.com',
