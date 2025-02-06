@@ -9,6 +9,13 @@ $job_boards = array(
     'myworkdayjobs.com',
     'careers.jobscore.com',
     'ats.comparably.com',
+    'recruiting.paylocity.com',
+    'app.dover.com',
+    'jobs.gem.com',
+    'pinpointhq.com',
+    'breezy.hr',
+    'icims.com',
+    'freshteam.com',
 );
 
 $timeframes = array(
