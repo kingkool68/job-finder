@@ -11,7 +11,7 @@ $job_boards = array(
     'ats.comparably.com',
     'recruiting.paylocity.com',
     'app.dover.com',
-    'gem.com',
+    'jobs.gem.com',
     'pinpointhq.com',
     'breezy.hr',
     'icims.com',
