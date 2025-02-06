@@ -15,7 +15,7 @@ $job_boards = array(
     'pinpointhq.com',
     'breezy.hr',
     'icims.com',
-    'site:freshteam.com',
+    'freshteam.com',
 );
 
 $timeframes = array(
