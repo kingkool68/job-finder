@@ -16,6 +16,7 @@ $job_boards = array(
     'breezy.hr',
     'icims.com',
     'freshteam.com',
+    'careers.hireology.com',
 );
 
 $timeframes = array(
