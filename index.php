@@ -8,6 +8,7 @@ $job_boards = array(
     'jobs.workable.com',
     'myworkdayjobs.com',
     'careers.jobscore.com',
+    'ats.rippling.com',
     'ats.comparably.com',
     'recruiting.paylocity.com',
     'app.dover.com',
